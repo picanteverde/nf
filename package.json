@@ -5,7 +5,9 @@
   "author": "Alejandro Hernández <picanteverde@gmail.com>",
   "private": true,
   "dependencies": {
-    "nuxt": "latest"
+    "apollo-client": "^1.4.0",
+    "nuxt": "latest",
+    "vue-apollo": "^2.1.0-beta.8"
   },
   "scripts": {
     "dev": "nuxt",
